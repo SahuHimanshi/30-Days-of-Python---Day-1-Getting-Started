@@ -11,3 +11,8 @@ Learned what variables are and how to assign them
 
 ![runningmy_fist_code](https://github.com/user-attachments/assets/401a5371-b8a2-486d-8de8-c28a98fcbb29)
 
+
+🤔 Reflection
+
+Though I’ve worked with data tools like SQL, Power BI, and Excel, diving into Python feels like unlocking a new layer. It's simple yet powerful — and I'm excited to see where it takes me in the analytics journey.
+
