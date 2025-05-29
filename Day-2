@@ -1,7 +1,8 @@
 Date: 29-05-25
+
 📌 Day 02 – Variables and Data Types
 ✅ What I Learned:
-Integers (int)
+#Integers (int)
 
 Whole numbers, e.g., 5, -12, 0
 
@@ -13,19 +14,19 @@ Decimal numbers, e.g., 3.14, -0.5
 
 Useful for measurements, percentages, precise calculations.
 
-Strings (str)
+#Strings (str)
 
 Text data enclosed in quotes, e.g., "Hello", '123'
 
 Can contain letters, digits, symbols.
 
-Booleans (bool)
+#Booleans (bool)
 
 Only two values: True or False
 
 Used in conditions and logical operations.
 
-Type Conversion
+#Type Conversion
 
 Changing one data type to another:
 
