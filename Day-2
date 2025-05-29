@@ -1,3 +1,4 @@
+Date: 29-05-25
 📌 Day 02 – Variables and Data Types
 ✅ What I Learned:
 Integers (int)
@@ -35,6 +36,8 @@ float("3.5") → 3.5
 str(100) → "100"
 
 Important when working with user input (always comes in as a string).
+
+
 
 
 
